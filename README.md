@@ -2,7 +2,7 @@
 ToDo App
 
 # Description 
-A React Based Todo App is a web Application that allows users to manage their tasks and to-do items in a user-friendly and interactive manner.Here's are the some key features:-
+A `React` Based Todo App is a web Application that allows users to manage their tasks and to-do items in a user-friendly and interactive manner.Here's are the some key features:-
 
 1. Task List Display
 2. Add Todo
@@ -14,5 +14,6 @@ React is a popular javascript library for building user interface, is commonly u
 
 # Steps for run project
 1. Goto the project directory. 
-2. Install the node_modules using "npm install" command.
-3. Run server using "npm start" command.
+2. Install the node_modules using `npm install` command.
+3. Run server using `npm start` command.
+4. Navigate to http://localhost:3000/.
